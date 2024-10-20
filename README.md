@@ -1,4 +1,4 @@
-# Kaggle Data Processing and Analysis
+# Netflix Data Processing and Analysis
 
 This project involves downloading data from Kaggle, processing it using Jupyter Notebook, and performing data analysis with SQL and Python. The focus is on cleaning and analyzing a dataset related to movies and TV shows.
 
