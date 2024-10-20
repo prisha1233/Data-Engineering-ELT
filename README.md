@@ -6,7 +6,6 @@ This project involves downloading data from Kaggle, processing it using Jupyter 
 
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Usage](#usage)
 - [Data Cleaning Steps](#data-cleaning-steps)
 - [Data Analysis](#data-analysis)
 - [License](#license)
